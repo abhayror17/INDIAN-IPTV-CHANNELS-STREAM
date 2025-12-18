@@ -1,0 +1,5 @@
+{
+  "name": "StreamFlow IPTV Player",
+  "description": "A modern, high-performance web-based IPTV player. Upload M3U/M3U8 playlists or paste URLs to watch live TV directly in your browser. Features instant search, group filtering, and HLS streaming support.",
+  "requestFramePermissions": []
+}
